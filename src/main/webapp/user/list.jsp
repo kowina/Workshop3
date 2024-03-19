@@ -44,6 +44,8 @@
             </div>
         </div>
 </div>
+</div>
+</div>
 <!-- /.container-fluid -->
 <%@ include file="../footer.jsp" %>
 
